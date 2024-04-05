@@ -1,4 +1,4 @@
 # portfolio-landing
-landing page for my portfolio, styled with Tailwind CSS. Enjoy a clean and responsive design.
+portfolio landing page , styled with Tailwind CSS.
 
-You can check out the live version https://ossama-lazri.github.io/portfolio-landing/
+the live version https://ossama-lazri.github.io/portfolio-landing/
