@@ -8,6 +8,9 @@
     import portfolio4 from '../assets/portfolio4.png';
     import resumePDF from '../assets/Resume.pdf';
     import digital from '../assets/digital.png';
+    // @ts-ignore
+    import etutor from '../assets/e-tutor.png';
+    import brainwave from '../assets/brainwave.png';
 
     function downloadResume() {
         const link = document.createElement('a');
@@ -248,17 +251,17 @@
                     </div>
                 </div>
                 <div class="relative group">
-                    <img src="{portfolio4}" alt="" class="max-w-[21.5625rem] md:max-w-7xl w-full object-cover rounded-[1.25rem] h-[19rem]">
+                    <img src="{etutor}" alt="" class="max-w-[21.5625rem] md:max-w-7xl w-full object-cover rounded-[1.25rem] h-[19rem]">
                     <div class="w-full h-full overflow-hidden rounded-[1.25rem] group-hover:backdrop-blur-sm absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col gap-4 justify-center items-center">
-                        <a href="/" target="_blank" class="opacity-0 group-hover:opacity-100 bg-white md:px-[3.75rem] px-7 md:py-5 py-2.5 md:text-base text-sm rounded-full text-[#1D1E22] md:font-poppinsBold font-poppinsSemiBold leading-[normal]">Try Demo</a>
-                        <a href="/" target="_blank" class="opacity-0 group-hover:opacity-100 bg-[#FF8E5E] md:py-5 py-2.5 md:px-[3.75rem] px-[1.9rem] md:text-base text-sm rounded-[3.75rem] text-[#1D1E22] font-poppinsBold leading-[normal]">Show Code</a>
+                        <a href="https://ossama-lazri.github.io/e-learning-landing/" target="_blank" class="opacity-0 group-hover:opacity-100 bg-white md:px-[3.75rem] px-7 md:py-5 py-2.5 md:text-base text-sm rounded-full text-[#1D1E22] md:font-poppinsBold font-poppinsSemiBold leading-[normal]">Try Demo</a>
+                        <a href="https://github.com/ossama-Lazri/e-learning-landing" target="_blank" class="opacity-0 group-hover:opacity-100 bg-[#FF8E5E] md:py-5 py-2.5 md:px-[3.75rem] px-[1.9rem] md:text-base text-sm rounded-[3.75rem] text-[#1D1E22] font-poppinsBold leading-[normal]">Show Code</a>
                     </div>
                 </div>
                 <div class="relative group">
-                    <img src="{portfolio2}" alt="" class="max-w-[21.5625rem] md:max-w-7xl w-full object-cover rounded-[1.25rem] h-[19rem]">
+                    <img src="{brainwave}" alt="" class="max-w-[21.5625rem] md:max-w-7xl w-full object-cover rounded-[1.25rem] h-[19rem]">
                     <div class="w-full h-full overflow-hidden rounded-[1.25rem] group-hover:backdrop-blur-sm absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col gap-4 justify-center items-center">
-                        <a href="/" target="_blank" class="opacity-0 group-hover:opacity-100 bg-white md:px-[3.75rem] px-7 md:py-5 py-2.5 md:text-base text-sm rounded-full text-[#1D1E22] md:font-poppinsBold font-poppinsSemiBold leading-[normal]">Try Demo</a>
-                        <a href="/" target="_blank" class="opacity-0 group-hover:opacity-100 bg-[#FF8E5E] md:py-5 py-2.5 md:px-[3.75rem] px-[1.9rem] md:text-base text-sm rounded-[3.75rem] text-[#1D1E22] font-poppinsBold leading-[normal]">Show Code</a>
+                        <a href="https://ossama-lazri.github.io/brainwave-landing/" target="_blank" class="opacity-0 group-hover:opacity-100 bg-white md:px-[3.75rem] px-7 md:py-5 py-2.5 md:text-base text-sm rounded-full text-[#1D1E22] md:font-poppinsBold font-poppinsSemiBold leading-[normal]">Try Demo</a>
+                        <a href="https://github.com/ossama-Lazri/brainwave-landing" target="_blank" class="opacity-0 group-hover:opacity-100 bg-[#FF8E5E] md:py-5 py-2.5 md:px-[3.75rem] px-[1.9rem] md:text-base text-sm rounded-[3.75rem] text-[#1D1E22] font-poppinsBold leading-[normal]">Show Code</a>
                     </div>
                 </div>
                 <div class="relative group">
