@@ -2,13 +2,10 @@
 
     import portfolioHer from '../assets/portfolioHero.jpg';
     import portfolioAbout from '../assets/portfolioAbout.png';
-    import portfolio1 from '../assets/portfolio01.jpeg';
-    import portfolio2 from '../assets/portfolio2.png';
     import portfolio3 from '../assets/portfolio3.png';
     import portfolio4 from '../assets/portfolio4.png';
     import resumePDF from '../assets/Resume.pdf';
     import digital from '../assets/digital.png';
-    // @ts-ignore
     import etutor from '../assets/e-tutor.png';
     import brainwave from '../assets/brainwave.png';
 
