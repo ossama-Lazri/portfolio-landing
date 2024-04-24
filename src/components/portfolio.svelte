@@ -61,7 +61,6 @@
     <nav class="container mx-auto flex justify-between items-center lg:py-[1.88rem] py-4 lg:px-0 px-4 relative">
         <button class="flex items-center gap-[0.15rem] logo">
             <svg class="md:w-[33px] md:h-[33px] w-6 h-6" fill="#fff" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="33" viewBox="0 0 571.197 571.197" xml:space="preserve"><g><g><path d="M285.599,571.197c157.721,0,285.598-127.877,285.598-285.598C571.197,127.877,443.32,0,285.599,0    C127.877,0,0,127.877,0,285.6C0,443.32,127.877,571.197,285.599,571.197z M213.744,143.254c0-39.669,32.139-71.855,71.855-71.855    c39.715,0,71.854,32.185,71.854,71.855v284.688c0,39.672-32.139,71.857-71.854,71.857c-39.716,0-71.855-32.186-71.855-71.855    V143.254z"/></g></g></svg>
-            <!-- <svg class="md:w-[33px] md:h-[33px] w-6 h-6" width="31" height="33" viewBox="0 0 31 33" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4 0.5C1.79086 0.5 0 2.29086 0 4.5V28.5C0 30.7091 1.79086 32.5 4 32.5H26.1176C28.3268 32.5 30.1176 30.7091 30.1176 28.5V4.5C30.1176 2.29086 28.3268 0.5 26.1177 0.5H4ZM6.27448 27.4804V5.51962L20.3315 18.9754L20.3195 5.51962L23.8431 8.87473V27.4804L9.93863 13.9465V23.8005L16.8672 23.8684L20.6153 27.4804H6.27448Z" fill="white"/></svg> -->
             <span class="text-white md:text-2xl text-xl font-poppinsExtraBold leading-[normal]">SSAMA</span>
         </button>
         <div class="md:flex hidden items-center gap-9">
