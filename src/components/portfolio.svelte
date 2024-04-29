@@ -58,7 +58,7 @@
         <svg width="32" height="32" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="directional" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="arrow-up" fill="#000000"><polygon id="Shape" points="4 15 12 7 20 15 18 17 12 11 6 17"></polygon></g></g></svg>
     </button>
 
-    <nav class="container mx-auto flex justify-between items-center lg:py-[1.88rem] py-4 lg:px-0 px-4 relative">
+    <nav class="container md:max-w-6xl mx-auto flex justify-between items-center lg:py-[1.88rem] py-4 lg:px-0 px-4 relative">
         <button class="flex items-center gap-[0.15rem] logo">
             <svg class="md:w-[33px] md:h-[33px] w-6 h-6" fill="#fff" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="33" viewBox="0 0 571.197 571.197" xml:space="preserve"><g><g><path d="M285.599,571.197c157.721,0,285.598-127.877,285.598-285.598C571.197,127.877,443.32,0,285.599,0    C127.877,0,0,127.877,0,285.6C0,443.32,127.877,571.197,285.599,571.197z M213.744,143.254c0-39.669,32.139-71.855,71.855-71.855    c39.715,0,71.854,32.185,71.854,71.855v284.688c0,39.672-32.139,71.857-71.854,71.857c-39.716,0-71.855-32.186-71.855-71.855    V143.254z"/></g></g></svg>
             <span class="text-white md:text-2xl text-xl font-poppinsExtraBold leading-[normal]">SSAMA</span>
@@ -104,7 +104,7 @@
 
     <hr class="backdrop-blur-[6px] md:border-[#ffffff05] border-[#ffffff1d]">
 
-    <div class="hero mt-10 container mx-auto flex lg:flex-row flex-col lg:gap-0 gap-10 justify-between lg:items-center md:items-start items-center md:pb-[7.16rem] pb-14 lg:px-0 px-4">
+    <div class="hero mt-10 container md:max-w-6xl mx-auto flex lg:flex-row flex-col lg:gap-0 gap-10 justify-between lg:items-center md:items-start items-center md:pb-[7.16rem] pb-14 lg:px-0 px-4">
         <div class="flex flex-col items-start max-w-[30rem]">
             <span class="text-[rgba(255,255,255,0.50)] md:text-lg font-poppinsBold leading-[1.8125rem]">✋ Hello, my name is</span>
             <h2 class="text-white md:text-5xl text-4xl font-poppinsExtraBold leading-[normal]">Ossama.</h2>
@@ -143,7 +143,7 @@
                 </div>
             </div>
         </div>
-        <section id="about" class="about md:mb-[4.62rem] mb-28 container mx-auto flex lg:flex-row flex-col lg:px-0 px-4 justify-between lg:items-center md:items-start items-center lg:gap-0 gap-8">
+        <section id="about" class="about md:mb-[4.62rem] mb-28 container md:max-w-6xl mx-auto flex lg:flex-row flex-col lg:px-0 px-4 justify-between lg:items-center md:items-start items-center lg:gap-0 gap-8">
             <div class="max-w-[33.75rem] flex flex-col items-start">
                 <div class="flex gap-[.62rem] mb-[0.94rem]">
                     <h4 class="text-[#FF8E5E] md:text-[2.8125rem] text-3xl font-poppinsExtraBold leading-[normal]">About</h4>
@@ -220,7 +220,7 @@
             <img src="{portfolioAbout}" class="w-full max-w-[35.3125rem] md:h-[24.1875rem] h-[12.09rem] object-cover rounded-[2.5rem]" alt="">
         </section>
     
-        <div class="container mx-auto skills py-[3.75rem] mb-24 lg:px-0 px-4">
+        <div class="container md:max-w-6xl mx-auto skills py-[3.75rem] mb-24 lg:px-0 px-4">
             <h3 class="text-white md:text-[2.8125rem] text-[1.8rem] font-poppinsExtraBold leading-[normal] mb-[1.94rem]">My <span class="text-[#FE8E5E]">skills</span></h3>
             <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-[2.38rem]">
                 <div class="flex items-center gap-5 max-w-[23.31rem]">
@@ -247,7 +247,7 @@
             </div>
         </div>
     
-        <div class="container mx-auto flex flex-col lg:px-0 px-4 justify-center items-center mb-[8.33rem]">
+        <div class="container md:max-w-6xl mx-auto flex flex-col lg:px-0 px-4 justify-center items-center mb-[8.33rem]">
             <h2 class="text-white text-center md:text-[3.25rem] text-3xl max-w-2xl font-poppinsExtraBold mb-[2.94rem] leading-[3.3125rem]">I create websites <br><span class="text-[#FF8E5E]">that enchant people</span></h2>
             <div class="grid md:grid-cols-3 sm:grid-cols-2 gap-8 w-full md:items-start justify-center">
                     <div class="relative group">
@@ -309,7 +309,7 @@
             </div>
         </div>
     
-        <div class="contact py-[6.25rem] mx-auto lg:px-0 px-4 container flex flex-col justify-center items-center">
+        <div class="contact py-[6.25rem] mx-auto lg:px-0 px-4 container md:max-w-6xl flex flex-col justify-center items-center">
             <h4 class="text-[#FF8E5E] text-center md:text-[3.25rem] text-3xl max-w-[34.5rem] mb-[1.81rem] font-poppinsExtraBold leading-[3.3125rem]">Lets build your project together</h4>
             <a href="https://www.linkedin.com/in/ossama-lazri/" target="_blank" class="bg-white md:px-[3.75rem] px-7 md:py-5 py-2.5 md:text-base text-sm rounded-full text-[#1D1E22] md:font-poppinsBold font-poppinsSemiBold leading-[normal]">Get in touch</a>
         </div>
